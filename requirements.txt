@@ -6,4 +6,4 @@ Jinja2==3.0.1
 MarkupSafe==2.0.1
 gunicorn==20.1.0
 numpy==1.21.0
-fbprophet @ file:///D:/bld/fbprophet_1599365958928/work
+fbprophet==0.7.1=py38h7ae7562_0
